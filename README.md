@@ -1,18 +1,16 @@
-## Getting Started
+# ⚔️ Menu Interativo RPG em Java
+Projeto desenvolvido em Java focado em lógica de programação, estruturas condicionais (`if/else`, `switch-case`) e navegação interativa via consola de comandos.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## 📌 Funcionalidades
+- **Menu Interativo:** Navegação dinâmica por opções no terminal.
+- **Estruturas de Decisão:** Utilização de `switch-case` e condicionais para fluxo de jogo.
+- **Mecanica RPG:** Simulação de escolhas de classe e ações de personagem.
 
-## Folder Structure
+## 🛠️ Tecnologias
+- Java (Core & Lógica)
+- VS Code
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## ⚙️ Como Executar
+1. Clona o repositório.
+2. Navega até à pasta `src/`.
+3. Executa o ficheiro `MenuInterativoRPG.java` na tua IDE ou terminal Java.
