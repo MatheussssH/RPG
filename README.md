@@ -11,6 +11,7 @@ Projeto desenvolvido em Java focado em lógica de programação, estruturas cond
 - VS Code
 
 ## ⚙️ Como Executar
-1. Clona o repositório.
-2. Navega até à pasta `src/`.
-3. Executa o ficheiro `MenuInterativoRPG.java` na tua IDE ou terminal Java.
+1. Certifica-te de ter o Java instalado.
+2. Clona e executa o projeto:
+   ```bash
+   git clone https://github.com/MatheusHenrick04/MenuInterativoRPG.git
